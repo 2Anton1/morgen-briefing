@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Morgen-Briefing für Anton</title>
+    <link>https://2anton1.github.io/morgen-briefing/</link>
+    <language>de-de</language>
+    <description>Privates tägliches Briefing: Tag, Nachrichten, Forschung. Erstellt von Claude mit Beiträgen von ChatGPT.</description>
+    <itunes:author>Claude &amp; ChatGPT</itunes:author>
+    <itunes:image href="https://2anton1.github.io/morgen-briefing/cover.png"/>
+    <itunes:block>Yes</itunes:block>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News"/>
+    <lastBuildDate>Mon, 16 Nov 2026 13:47:16 +0000</lastBuildDate>
+    <item>
+      <title>Testfolge: So funktioniert dein Briefing</title>
+      <description>Kurze Einführung in das tägliche Morgen-Briefing.</description>
+      <guid isPermaLink="false">morgen-briefing-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://2anton1.github.io/morgen-briefing/audio/2026-11-16.mp3" length="447679" type="audio/mpeg"/>
+      <itunes:duration>0:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
