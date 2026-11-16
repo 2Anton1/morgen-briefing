@@ -101,9 +101,9 @@ def write_feed(episodes):
         items.append(f"""    <item>
       <title>{html.escape(ep['title'])}</title>
       <description>{html.escape(ep.get('summary', ''))}</description>
-      <guid isPermaLink="false">morgen-briefing-{ep['date']}</guid>
+      <guid isPermaLink="false">morgen-briefing-{ep['date']}-{ep['bytes']}</guid>
       <pubDate>{email.utils.format_datetime(d)}</pubDate>
-      <enclosure url="{base}/audio/{ep['file']}" length="{ep['bytes']}" type="audio/mpeg"/>
+      <enclosure url="{base}/audio/{ep['file']}?v={ep['bytes']}" length="{ep['bytes']}" type="audio/mpeg"/>
       <itunes:duration>{secs // 60}:{secs % 60:02d}</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>""")
