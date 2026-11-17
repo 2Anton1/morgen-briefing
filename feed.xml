@@ -10,7 +10,16 @@
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
-    <lastBuildDate>Mon, 16 Nov 2026 14:33:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:15:31 +0000</lastBuildDate>
+    <item>
+      <title>Dienstag, 17. November: Promotion vorbereiten, Persona-Effekte</title>
+      <description>Freier Tag vor voller Woche, Agenda für das Promotionsgespräch und drei Studien zu Persona-Prompts, Geschlechter-Bias und Vorausplanung.</description>
+      <guid isPermaLink="false">morgen-briefing-2026-11-17-5845935</guid>
+      <pubDate>Tue, 17 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://2anton1.github.io/morgen-briefing/audio/2026-11-17.mp3?v=5845935" length="5845935" type="audio/mpeg"/>
+      <itunes:duration>8:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Montag, 16. November: Audit-Validierung und Krankenhaustag</title>
       <description>Ruhiger Posteingang, Kritik zum Krankenhaustag und eine Studie zur KI-gestützten Risk-of-Bias-Bewertung mit menschlicher Prüfung.</description>
