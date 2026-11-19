@@ -10,7 +10,16 @@
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
-    <lastBuildDate>Wed, 18 Nov 2026 05:16:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:15:22 +0000</lastBuildDate>
+    <item>
+      <title>Donnerstag, 19. November: Apps, Bias und Symptom-Checker</title>
+      <description>WHO-Fahrplan zu digitaler psychischer Gesundheit, eine Übersicht zu Verzerrungen bei Sprachmodellen, Evidenzlücken bei Symptom-Checkern und KI-Entlassbriefe.</description>
+      <guid isPermaLink="false">morgen-briefing-2026-11-19-5496417</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://2anton1.github.io/morgen-briefing/audio/2026-11-19.mp3?v=5496417" length="5496417" type="audio/mpeg"/>
+      <itunes:duration>7:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mittwoch, 18. November: Gesundheitsetat und synthetische Befragte</title>
       <description>Voller Tag mit vier Terminen, Gesundheitsetat 2027 mit deutlichem Minus, zwei Studien zu Sprachmodellen in Umfragen und Patienten-Chatbots, Vorbereitung auf das AIM-SAFE-Gespräch.</description>
