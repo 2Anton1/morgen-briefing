@@ -10,7 +10,16 @@
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
-    <lastBuildDate>Sat, 21 Nov 2026 05:15:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 05:15:35 +0000</lastBuildDate>
+    <item>
+      <title>Sonntag, 22. November: Pflegekassen-Warnung und DiGA-Studiendesign</title>
+      <description>Pflegekassen warnen vor der Bundestagsanhörung vor einer Finanzlücke, adaptive Studiendesigns für das DiGA-Schnellverfahren und warum KI-Bewerter klinische Bewertung nicht ersetzen.</description>
+      <guid isPermaLink="false">morgen-briefing-2026-11-22-4053517</guid>
+      <pubDate>Sun, 22 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://2anton1.github.io/morgen-briefing/audio/2026-11-22.mp3?v=4053517" length="4053517" type="audio/mpeg"/>
+      <itunes:duration>5:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Samstag, 21. November: Notfallreform durch, Pflegereform</title>
       <description>Notfallreform passiert den Bundesrat, Länder zur Pflegereform, KI-Regeln für Leitlinien und lückenhafte Berichte bei App-Studien.</description>
