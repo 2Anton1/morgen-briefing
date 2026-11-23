@@ -10,7 +10,16 @@
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
-    <lastBuildDate>Sun, 22 Nov 2026 05:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:16:10 +0000</lastBuildDate>
+    <item>
+      <title>Montag, 23. November: Klimagipfel gescheitert, Nato berät</title>
+      <description>Die Klimakonferenz in Antalya endet ohne Erklärung, die Nato berät über russische Raketen über Polen, Haushaltswoche im Bundestag und eine Studie zur Vorausplanung.</description>
+      <guid isPermaLink="false">morgen-briefing-2026-11-23-6391372</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://2anton1.github.io/morgen-briefing/audio/2026-11-23.mp3?v=6391372" length="6391372" type="audio/mpeg"/>
+      <itunes:duration>8:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sonntag, 22. November: Pflegekassen-Warnung und DiGA-Studiendesign</title>
       <description>Pflegekassen warnen vor der Bundestagsanhörung vor einer Finanzlücke, adaptive Studiendesigns für das DiGA-Schnellverfahren und warum KI-Bewerter klinische Bewertung nicht ersetzen.</description>
