@@ -10,7 +10,16 @@
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
-    <lastBuildDate>Tue, 24 Nov 2026 05:16:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:16:10 +0000</lastBuildDate>
+    <item>
+      <title>Mittwoch, 25. November: Estland, Pflegereform, KI-Evidenz</title>
+      <description>Angriff auf Saporischschja, Estland schließt die Grenze zu Russland, Anhörung zur Pflegereform, Linnemann zu Gesundheitsdaten und eine Übersicht zu Sprachmodellen in der Notaufnahme.</description>
+      <guid isPermaLink="false">morgen-briefing-2026-11-25-6086993</guid>
+      <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://2anton1.github.io/morgen-briefing/audio/2026-11-25.mp3?v=6086993" length="6086993" type="audio/mpeg"/>
+      <itunes:duration>8:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Dienstag, 24. November: Korvette, Nvidia, Gesundheitsetat</title>
       <description>Ukraine versenkt russische Korvette vor Libyen, Nvidia holt Huang zurück, der Bundestag berät den Gesundheitsetat und eine Studie testet Vorurteile in medizinischen Sprachmodellen.</description>
